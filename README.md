@@ -1,7 +1,3 @@
-Of course! Here is a professional and detailed README for your backend repository, written in English.
-
-You can copy and paste this directly into a README.md file in the root of your Byte Food Backend project.
-
 Byte Food - Core Java Backend
 This repository contains the server-side application for the Byte Food delivery platform, a full-stack project inspired by Snappfood. This backend is built entirely from the ground up using core Java technologies, deliberately avoiding major frameworks like Spring to showcase a deep understanding of fundamental backend concepts.
 
