@@ -73,7 +73,7 @@ Clone the Repository
 
 Bash
 
-git clone https://your-repository-url.git
+git clone https://github.com/ARTESHMAN/Byte-Food-Backend.git
 Configure the Database
 
 In your MySQL instance, create a new database schema named snappfood.
